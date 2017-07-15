@@ -1,0 +1,7 @@
+H:\BaiduYunDownload\淘淘商城\ttshop\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+H:\BaiduYunDownload\淘淘商城\ttshop\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
+H:\BaiduYunDownload\淘淘商城\ttshop\taotao-order\src\main\java\com\taotao\order\pojo\Order.java
+H:\BaiduYunDownload\淘淘商城\ttshop\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+H:\BaiduYunDownload\淘淘商城\ttshop\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientSingle.java
+H:\BaiduYunDownload\淘淘商城\ttshop\taotao-order\src\main\java\com\taotao\order\service\impl\OrderServiceImpl.java
+H:\BaiduYunDownload\淘淘商城\ttshop\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
